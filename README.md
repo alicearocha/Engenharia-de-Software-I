@@ -25,7 +25,7 @@ Requisitos não funcionais é o que o sistema não precisa para funcionar, mas q
 
  Se os requisitos funcionais especificam o que um sistema deve fazer, os requisitos não funcionais descrevem como ele o fará. Por exemplo, o novo aplicativo nos fornecerá a lista final de todos os usuários conectados. Isso faz parte dos requisitos funcionais. Se o requisito disser que o sistema funcionaria apenas em um sistema Windows e Linux, isso faria parte dos requisitos não funcionais. 
 
- II.II Requisitos não funcionais: Além disso, os requisitos não funcionais podem ser categorizados em 3 tipos: requisitos de produto final, organizacional e externo. Contudo, também há outras categorias, como:
+ II.2 Requisitos não funcionais: Além disso, os requisitos não funcionais podem ser categorizados em 3 tipos: requisitos de produto final, organizacional e externo. Contudo, também há outras categorias, como:
 de eficiência;
 de confiabilidade;
 de portabilidade;
