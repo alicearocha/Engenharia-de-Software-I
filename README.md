@@ -23,4 +23,45 @@ São divididos em requisitos funcionais e não funcionais:
 Requisitos funcionais são a necessidade do cliente, normalmente são apresentados em verbos. Exemplo: lançar notas no sistema, salvar as informações etc. 
 Requisitos não funcionais é o que o sistema não precisa para funcionar, mas que pode ser adicionados. Normalmente são apresentados como adjetivos do sistema. Exemplo: rapidez, acessibilidade etc. 
 
- 
+ Se os requisitos funcionais especificam o que um sistema deve fazer, os requisitos não funcionais descrevem como ele o fará. Por exemplo, o novo aplicativo nos fornecerá a lista final de todos os usuários conectados. Isso faz parte dos requisitos funcionais. Se o requisito disser que o sistema funcionaria apenas em um sistema Windows e Linux, isso faria parte dos requisitos não funcionais. 
+
+ II.II Requisitos não funcionais: Além disso, os requisitos não funcionais podem ser categorizados em 3 tipos: requisitos de produto final, organizacional e externo. Contudo, também há outras categorias, como:
+de eficiência;
+de confiabilidade;
+de portabilidade;
+de entrega;
+de implementação;
+de padrões;
+de interoperabilidade;
+éticos;
+legais;
+de integração.
+
+Requisitos de Produto Final
+Os requisitos de produto final são aqueles que estão relacionados ao comportamento do software, como:
+tempo de resposta;
+velocidade de execução;
+latência;
+conexão;
+portabilidade;
+consistência;
+mobilidade;
+confiabilidade;
+segurança;
+taxa de erros.
+
+Requisitos Organizacionais
+Os requisitos organizacionais são aqueles que estão relacionados aos padrões da organização. Ou seja, o software deve ser desenvolvido de acordo com as políticas e definições da empresa para garantir que o produto final gerado esteja em conformidade com as normas empresariais. Alguns exemplos:
+infraestrutura;
+sistema operacional compatível;
+conexão;
+criptografia usada pela empresa;
+linguagem de programação requisitada pela empresa (caso já existam outros programas que a utilizam).
+
+Requisitos Externos
+Os requisitos externos são aqueles que estão relacionados a qualquer tipo de agente externo ao software. Ou seja, qualquer aspecto não relacionado diretamente com o produto, mas que pode impactar no seu funcionamento deve ser definido. Entre os principais, estão:
+localização geográfica em que será usado;
+legislação;
+sistemas;
+política de proteção de dados.
+
