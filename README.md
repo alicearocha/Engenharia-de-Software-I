@@ -16,7 +16,7 @@ Texto: "Within Google, we sometimes say, “Software engineering is programming 
 - comentário: Apesar da programação ser parte integrante da Engenharia de Software, fica claro a partir da experiencia trazida pelos autores que a Engenharia de Software está longe de ser apenas programação. É levar em consideração o contexto amplo de ciclo de vida do software, sua usabilidade, escoloha de tecnologia, manutenção, é fazer a tomada de decisões que irá ditar a funcionalidade e longividade do software em questão. Tornar a programação e o software funcional através do tempo.
 
 
-II. O QUE SÃO OS REQUISITOS? 
+ATIVIDADE 2 - II. O QUE SÃO OS REQUISITOS? 
 
 Os requisitos do software são as necessidades do CLIENTE. 
 São divididos em requisitos funcionais e não funcionais: 
