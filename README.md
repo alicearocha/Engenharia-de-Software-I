@@ -65,5 +65,29 @@ legislação;
 sistemas;
 política de proteção de dados.
 
+
+ATIVIDADE 3 - TRADE OFFS:
+
+Em engenharia de software e no desenvolvimento de sistemas computacionais, o termo "trade-off" refere-se a decisões ou escolhas que precisam ser feitas ao projetar, implementar ou gerenciar um sistema. Um trade-off envolve a consideração e a negociação de benefícios e compromissos entre diferentes aspectos do sistema, como funcionalidade, desempenho, usabilidade, segurança, custo, tempo de desenvolvimento e manutenção, entre outros.
+
+Ao criar sistemas computacionais, os trade-offs podem ocorrer em várias áreas, como:
+
+Funcionalidade versus Desempenho: Adicionar mais recursos e funcionalidades a um sistema pode afetar o desempenho, pois pode exigir mais recursos computacionais. É necessário encontrar um equilíbrio entre as funcionalidades desejadas e a velocidade ou eficiência do sistema.
+
+Usabilidade versus Segurança: Medidas de segurança rigorosas podem afetar a usabilidade do sistema. Por exemplo, solicitar autenticação em várias etapas pode aumentar a segurança, mas também pode aumentar a complexidade e a frustração do usuário. É preciso considerar cuidadosamente a experiência do usuário em relação aos requisitos de segurança.
+
+Flexibilidade versus Complexidade: Oferecer um sistema altamente flexível pode aumentar a complexidade de sua implementação. Adicionar muitas opções de configuração e personalização pode tornar o sistema difícil de entender e manter. É necessário encontrar um equilíbrio entre a flexibilidade desejada e a complexidade resultante.
+
+Tempo de Desenvolvimento versus Qualidade: O desenvolvimento rápido pode levar a compromissos na qualidade do software. Pressões para cumprir prazos apertados podem resultar em código mal estruturado, falta de testes adequados e maior probabilidade de erros. É necessário avaliar cuidadosamente a relação entre o tempo de desenvolvimento e a qualidade do produto final.
+
+Custo versus Recursos: Alocar mais recursos, como hardware de alto desempenho ou equipe especializada, pode aumentar os custos do projeto. É importante encontrar um equilíbrio entre os recursos disponíveis e o orçamento atribuído.
+
+Manutenção versus Inovação: À medida que um sistema evolui, a manutenção contínua se torna necessária para corrigir defeitos, atualizar recursos e garantir a estabilidade. No entanto, investir muito tempo e recursos na manutenção pode limitar a capacidade de inovar e introduzir novas funcionalidades. É necessário encontrar um equilíbrio entre manutenção e inovação.
+
+É importante reconhecer que os trade-offs são inevitáveis e que a melhor solução depende dos requisitos e das restrições específicas de cada projeto. Os trade-offs devem ser avaliados e gerenciados de forma cuidadosa para alcançar um equilíbrio adequado entre as diferentes características e metas do sistema.
+
+
+ATIVIDADE 4 - DIAGRAMA DE CLASSES UML
+
 <br>
 <img src = "https://github.com/alicearocha/Engenharia-de-Software-I/blob/main/img/Diagrama%20UML%20Sorveteria%20-%20Classe%20UML.png" alt="Diagrama de Classe Sorveteria"/>
