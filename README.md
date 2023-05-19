@@ -65,3 +65,5 @@ legislação;
 sistemas;
 política de proteção de dados.
 
+<br>
+    <img src = "alicearocha/Engenharia-de-Software-I/img/Diagrama UML Sorveteria - Classe UML.png"/>
