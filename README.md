@@ -66,4 +66,4 @@ sistemas;
 política de proteção de dados.
 
 <br>
-<img src = "https://github.com/alicearocha/Engenharia-de-Software-I/blob/main/img/Diagrama%20UML%20Sorveteria%20-%20Classe%20UML.png"/>
+<img src = "https://github.com/alicearocha/Engenharia-de-Software-I/blob/main/img/Diagrama%20UML%20Sorveteria%20-%20Classe%20UML.png" alt="Diagrama de Classe Sorveteria"/>
